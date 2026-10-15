@@ -92,7 +92,7 @@ const Downsell = () => {
           </a>
           <div className="mt-4">
             <Link
-              to="https://alumnomrd.vercel.app/"
+              to="https://72h-msg.vercel.app/"
               className="text-muted-foreground text-sm underline hover:text-gold transition-colors"
             >
               No, prefiero rechazar esta oferta única para siempre
@@ -164,7 +164,7 @@ const Downsell = () => {
 
         <div className="mt-10">
           <Link
-            to="https://alumnomrd.vercel.app/"
+            to="https://72h-msg.vercel.app/"
             className="text-muted-foreground text-sm underline hover:text-gold transition-colors"
           >
             No, prefiero rechazar esta oferta única para siempre
