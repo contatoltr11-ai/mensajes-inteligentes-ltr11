@@ -35,7 +35,7 @@ const Index = () => {
   useEffect(() => {
     if (videoRef.current) {
       const script = document.createElement("script");
-      script.src = "https://scripts.converteai.net/23e4a8c5-1995-4b32-b826-c84cc70520b2/players/6ad031d412c04608fffad03f/v4/player.js";
+      script.src = "https://scripts.converteai.net/130d0377-cf17-412b-ac10-7fe74e454b79/players/6ae20365b8f96c866476b116/v4/player.js";
       script.async = true;
       script.onload = () => {
         if (window.vturb) {
@@ -94,7 +94,7 @@ const Index = () => {
           Mira Cómo Funciona el <span className="text-gold">Protocolo</span> por Dentro
         </h2>
         <div ref={videoRef} className="rounded-2xl overflow-hidden border-2 border-gold shadow-glow bg-card flex justify-center p-6">
-          <vturb-smartplayer id="vid-6ad031d412c04608fffad03f" style={{display: 'block', margin: '0 auto', width: '100%', maxWidth: '600px'}}></vturb-smartplayer>
+          <vturb-smartplayer id="vid-6ae20365b8f96c866476b116" style={{display: 'block', margin: '0 auto', width: '100%', maxWidth: '600px'}}></vturb-smartplayer>
         </div>
         <p className="text-center text-muted-foreground mt-5 text-base md:text-lg">
           <Users className="inline w-5 h-5 text-success mr-2 -mt-1" />
