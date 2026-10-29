@@ -33,7 +33,7 @@ const Downsell = () => {
         </div>
 
         <h1 className="font-display text-4xl md:text-6xl font-black text-gold leading-[1.05] mb-6 fade-in-up">
-          Entiendo... $ 27 No Era el Momento
+          Entiendo... $ 37 No Era el Momento
         </h1>
 
         <p className="text-xl md:text-2xl text-foreground font-semibold mb-5">
@@ -64,7 +64,7 @@ const Downsell = () => {
 
           <div className="bg-secondary/50 border border-muted rounded-2xl p-6 text-center opacity-60">
             <p className="text-xs uppercase tracking-wider text-muted-foreground mb-2">Oferta inicial</p>
-            <p className="text-3xl font-bold text-muted-foreground line-through">$ 27</p>
+            <p className="text-3xl font-bold text-muted-foreground line-through">$ 37</p>
           </div>
 
           <div className="relative gradient-gold rounded-2xl p-8 text-center shadow-glow scale-105">

@@ -16,7 +16,7 @@ export const StickyCTA = () => {
           onClick={handleClick}
           className="flex-1 sm:flex-initial gradient-gold text-primary-foreground font-bold text-base md:text-lg px-6 py-4 rounded-xl shadow-gold bounce-cta hover:scale-[1.02] active:scale-[0.98] transition-transform"
         >
-          ¡SÍ! QUIERO EL PROTOCOLO POR $ 27
+          ¡SÍ! QUIERO EL PROTOCOLO POR $ 37
         </button>
       </div>
     </div>
